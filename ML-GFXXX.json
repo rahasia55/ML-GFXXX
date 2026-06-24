@@ -1,22 +1,40 @@
 [
   {
-  "visibility": "VISIBLE",
-  "min_version": "1.2",
-  "app_name": "ML GFX Tool",
-  "dialog_title": "App under maintenance for the next 2 hours. Downloading Skin Toolkit ML",
-  "dialog_message": "Aplikasi dalam pemeliharaan selama 2 jam ke depan sementara download aplikasi Skin Toolkit ML",
-  "button_update": "Update",
-  "button_cancel": "Cancel",
-  "cancelable": false,
-  "info": "tes",
-  "link_update": "https://play.google.com/store/apps/details?id=com.sopinje.tct",
-"tutor_main": "https://youtu.be/cj7GQFkVb2Q?si=ruv-OfZ6g0byolZL",
-  "tutor_file": "https://youtu.be/cj7GQFkVb2Q?si=ruv-OfZ6g0byolZL",
-  "tutor_shizuku": "https://youtu.be/MAPwCdq4utU?si=0nMBo31i9UrvcXQG",
-  "tutor_iadb": "https://youtu.be/xke8T-RpQbI?si=viB3Q4srs2w4_XMJ",
+    "visibility": "VISIBLE",
+    "min_version": "1.2",
+    "app_name": "ML GFX Tool",
+    "dialog_title": "App under maintenance for the next 2 hours. Downloading Skin Toolkit ML",
+    "dialog_message": "Aplikasi dalam pemeliharaan selama 2 jam ke depan sementara download aplikasi Skin Toolkit ML",
+    "button_update": "Update",
+    "button_cancel": "Cancel",
+    "cancelable": false,
+    "info": "tes",
+    "link_update": "https://play.google.com/store/apps/details?id=com.sopinje.tct",
+    "tutor_main": "https://youtu.be/cj7GQFkVb2Q?si=ruv-OfZ6g0byolZL",
+    "tutor_file": "https://youtu.be/cj7GQFkVb2Q?si=ruv-OfZ6g0byolZL",
+    "tutor_shizuku": "https://youtu.be/MAPwCdq4utU?si=0nMBo31i9UrvcXQG",
+    "tutor_iadb": "https://youtu.be/xke8T-RpQbI?si=viB3Q4srs2w4_XMJ",
     "youtube": "https://youtube.com/@gs_injector?si=Tu_AzQPnhk5znCM_",
-  "tiktok": "https://www.tiktok.com/@script.ml5?_r=1&_t=ZS-96wbzTnlHjm",
-  "whatsapp": "https://chat.whatsapp.com/CY1HKBpfYRhJVMVz3duAqv",
-  "telegram": "https://youtube.com/playlist?list=PLGCMrKypV0ZcLvHyQAUWKS465hwtq0zML&si=dl4nMuiABZ7U2bOY"
+    "tiktok": "https://www.tiktok.com/@script.ml5?_r=1&_t=ZS-96wbzTnlHjm",
+    "whatsapp": "https://chat.whatsapp.com/CY1HKBpfYRhJVMVz3duAqv",
+    "telegram": "https://youtube.com/playlist?list=PLGCMrKypV0ZcLvHyQAUWKS465hwtq0zML&si=dl4nMuiABZ7U2bOY",
+    "partner_apps_visible": true,
+    "partner_apps": [
+      {
+        "app_name": "Skin Toolkit ML",
+        "icon_url": "https://play-lh.googleusercontent.com/placeholder1",
+        "link_update": "https://play.google.com/store/apps/details?id=com.skintoolkit.ml"
+      },
+      {
+        "app_name": "ML Injector Pro",
+        "icon_url": "https://play-lh.googleusercontent.com/placeholder2",
+        "link_update": "https://play.google.com/store/apps/details?id=com.mlinjector.pro"
+      },
+      {
+        "app_name": "GFX Tool MLBB",
+        "icon_url": "https://play-lh.googleusercontent.com/placeholder3",
+        "link_update": "https://play.google.com/store/apps/details?id=com.gfxtool.mlbb"
+      }
+    ]
   }
 ]
