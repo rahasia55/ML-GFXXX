@@ -22,18 +22,18 @@
     "partner_apps": [
       {
         "app_name": "Skin Toolkit ML",
-        "icon_url": "https://play-lh.googleusercontent.com/placeholder1",
-        "link_update": "https://play.google.com/store/apps/details?id=com.skintoolkit.ml"
+        "icon_url": "https://play-lh.googleusercontent.com/fyuoL-N88hNz1L_AGvxZs-C4QKHgPb2CqrlQqWmTwCSsex-NvD_Pe_m80JocyoEMf709DVt0dq4ZesnoSp6HDTY=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=skin.tools.ml.injector.config.skin.ml.tool.gfx"
       },
       {
-        "app_name": "ML Injector Pro",
-        "icon_url": "https://play-lh.googleusercontent.com/placeholder2",
-        "link_update": "https://play.google.com/store/apps/details?id=com.mlinjector.pro"
+        "app_name": "GS Tools",
+        "icon_url": "https://play-lh.googleusercontent.com/ygnfYDHWVtosUn5jN36ip7tnW4DvE14o8ooKCKIgm9Ncog3gw-C89GVu5XEMXYiMEwHL4rJTqOZ23Sdv7QjVuoA=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.GS.Tools"
       },
       {
-        "app_name": "GFX Tool MLBB",
-        "icon_url": "https://play-lh.googleusercontent.com/placeholder3",
-        "link_update": "https://play.google.com/store/apps/details?id=com.gfxtool.mlbb"
+        "app_name": "ML Tools Hub",
+        "icon_url": "https://play-lh.googleusercontent.com/nX3PjrY7iiaukxVbXsgYemt51B9zYWdU0nNP-s7pHElS4eNUXrbTs5ILMK6JdETAR7wcPuXxp6uIr1M0kbhMyA=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ml.toolshub"
       }
     ]
   }
