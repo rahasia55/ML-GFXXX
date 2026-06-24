@@ -18,6 +18,7 @@
     "tiktok": "https://www.tiktok.com/@script.ml5?_r=1&_t=ZS-96wbzTnlHjm",
     "whatsapp": "https://chat.whatsapp.com/CY1HKBpfYRhJVMVz3duAqv",
     "telegram": "https://youtube.com/playlist?list=PLGCMrKypV0ZcLvHyQAUWKS465hwtq0zML&si=dl4nMuiABZ7U2bOY",
+    
     "partner_apps_visible": true,
     "partner_apps": [
       {
@@ -34,7 +35,20 @@
         "app_name": "ML Tools Hub",
         "icon_url": "https://play-lh.googleusercontent.com/nX3PjrY7iiaukxVbXsgYemt51B9zYWdU0nNP-s7pHElS4eNUXrbTs5ILMK6JdETAR7wcPuXxp6uIr1M0kbhMyA=s128-rw",
         "link_update": "https://play.google.com/store/apps/details?id=com.ml.toolshub"
+      },
+      {
+        "app_name": "ML Tools Hub",
+        "icon_url": "https://play-lh.googleusercontent.com/nX3PjrY7iiaukxVbXsgYemt51B9zYWdU0nNP-s7pHElS4eNUXrbTs5ILMK6JdETAR7wcPuXxp6uIr1M0kbhMyA=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ml.toolshub"
+      },
+      {
+        "app_name": "ML Tools Hub",
+        "icon_url": "https://play-lh.googleusercontent.com/nX3PjrY7iiaukxVbXsgYemt51B9zYWdU0nNP-s7pHElS4eNUXrbTs5ILMK6JdETAR7wcPuXxp6uIr1M0kbhMyA=s128-rw",
+        "link_update": "https://play.google.com/store/apps/details?id=com.ml.toolshub"
       }
+      
+      
     ]
+    
   }
 ]
