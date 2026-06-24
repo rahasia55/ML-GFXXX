@@ -1,6 +1,6 @@
 [
   {
-    "visibility": "VISIBLE",
+    "visibility": "INVISIBLE",
     "min_version": "1.2",
     "app_name": "ML GFX Tool",
     "dialog_title": "App under maintenance for the next 2 hours. Downloading Skin Toolkit ML",
