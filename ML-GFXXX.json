@@ -1,7 +1,7 @@
 [
   {
     "visibility": "VISIBLE",
-    "min_version": "1.3",
+    "min_version": "1.4",
     "app_name": "ML GFX Tool",
     "dialog_title": "App under maintenance. Meanwhile, please use ML Tools GFX. Click update",
     "dialog_message": "aplikasi dalam perbaikan, sementara gunakan aplikasi ML Tools GFX. klik update",
