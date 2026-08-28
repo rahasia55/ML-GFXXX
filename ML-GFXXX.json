@@ -1,7 +1,7 @@
 [
   {
     "visibility": "VISIBLE",
-    "min_version": "1.4",
+    "min_version": "4.4",
     "app_name": "RX Tools",
     "dialog_title": "A new version is available. Update now.",
     "dialog_message": "Versi terbaru tersedia, update sekarang",
